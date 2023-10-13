@@ -12,26 +12,27 @@ I’m experienced, open-minded Senior Customer Service Specialist with flexible 
 My goal is to become a proficient software tester. On this site I would like to share  my all gained experience.
 
 ### Skills
+|SKILLS                                       |
+|---------------------------------------------|
+|👉 knowledge of ISTQB                       |
+|                                             |
+|👉 testing web and mobile applications      |
+|                                             |
+|👉 Scrum                                    |
+|                                             |
+|👉 Jira, Confluence                         |
+|                                             |
+|👉 TestRail                                 |
 
-👉 knowledge of ISTQB
-
-👉 testing web and mobile applications
-
-👉 Scrum
-
-👉 Jira, Confluence
-
-👉 TestRail
-
-👉 Slack
-
-👉 SQL (basic level)
-
-👉 CI/CD, git, gitflow
-
-👉 testing REST API - Postman
-
-👉 basic knowledge of UML
+|👉 Slack
+|
+|👉 SQL (basic level)
+|
+|👉 CI/CD, git, gitflow
+|
+|👉 testing REST API - Postman
+|
+|👉 basic knowledge of UML
 
 
 ### Practical experience (test cases, bug report, test report created by me)
