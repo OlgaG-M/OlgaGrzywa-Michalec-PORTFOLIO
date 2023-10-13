@@ -2,6 +2,15 @@
 
 ### About Me
 
+My name is Olga Grzywa-Michalec. Recently I have deicided to take my career in a software testing direction.
+
+I want to be a Software Tester because I have worked hard to develop skills that are relevant to this industry. Also, in my opinion, this type of work gives never ending possibilities of development which brings me personal satisfaction. What is also a big adventage of being a QA is that this profession seems to be both creative and structured.
+
+I think my previous professional experience, sports career and soft skills fit perfectly for QA position.
+I’m experienced, open-minded Senior Customer Service Specialist with flexible approach and can-do attitude. I am meticulous, persistent, patient with a passion for quality. Both empathetic and assertive. Works well within a team and individually.
+
+My goal is to become a proficient software tester. On this site I would like to share  my all gained experience.
+
 ### Skills
 
 👉 knowledge of ISTQB
