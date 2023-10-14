@@ -12,10 +12,10 @@ I’m experienced, open-minded Senior Customer Service Specialist with flexible 
 
 My goal is to become a proficient software tester. On this site I would like to share  my all gained experience.
 
+## Skills
 
-
-|**SKILLS**                                   |
-|---------------------------------------------|
+|  📚👩‍🎓                                      |
+|--------------------------------------------|
 |👉 knowledge of ISTQB                       |
 |                                             |
 |👉 testing web and mobile applications      |
