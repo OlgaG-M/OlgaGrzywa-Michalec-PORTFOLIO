@@ -3,7 +3,7 @@ My Tester's Portfolio 🕵️‍♂️ 🐛
 
 ## About Me
 
-My name is Olga Grzywa-Michalec. Recently I have deicided to change my career path and become a software tester.
+My name is Olga Grzywa-Michalec. Recently I have deicided to change my career path and become a Software Tester.
 
 WHY do I want to be a Software Tester?
 * because I have worked hard to develop skills that are relevant to this industry
