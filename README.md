@@ -60,10 +60,13 @@ My goal is to become a proficient software tester. On this site I would like to 
 * **Test Report**  ➡ 
   [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
 
-* **Test cases**
-  📱 Pick Eat Up application ➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
+* **Test cases:**
+  📱 Pick Eat Up application
+
+  ➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
 
  💻 https://scouts-test.futbolkolektyw.pl/ 
+
 ➡ [20 test cases](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 
 ➡ [test cases based on below mentioned user stories](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
