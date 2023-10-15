@@ -61,11 +61,12 @@ My goal is to become a proficient software tester. On this site I would like to 
   [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
 
 * **Test cases:**
-  📱 Pick Eat Up application
+  
+📱 Pick Eat Up application <img width="41" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/c041df39-35ca-4036-a706-60da1850b576">
+➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
 
-  ➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
+💻 https://scouts-test.futbolkolektyw.pl/ <img width="134" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/4cf5fcbd-de39-4f62-bb41-1a1292012215">
 
- 💻 https://scouts-test.futbolkolektyw.pl/ 
 
 ➡ [20 test cases](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 
