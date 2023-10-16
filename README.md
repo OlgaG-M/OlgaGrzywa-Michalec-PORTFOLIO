@@ -8,13 +8,13 @@ My name is Olga Grzywa-Michalec. Recently I have deicided to change my career pa
 WHY do I want to be a Software Tester?
 * because I have worked hard to develop skills that are relevant to this industry
 * moreover, this type of work gives never ending possibilities of development which brings me personal satisfaction
-* a big adventage of being a QA in my opinion is that this profession seems to be both creative and structured
-* I think my previous professional corporate experience, sports career and soft skills fit perfectly for QA position:
+* furthermore a big adventage of being a QA in my opinion is that this profession seems to be both creative and structured
+* also I think my previous professional corporate experience, sports career and soft skills fit perfectly for QA position:
   
 I’m experienced, open-minded Senior Customer Service Specialist with flexible approach and can-do attitude. I am meticulous, persistent, patient, with a passion for quality. Both empathetic and assertive. Works well within a team and individually.
 
 🎯My career goal is to become a proficient Software Tester therefore I am determined to prove the skills I have already acquired and keep developing in this field. 
-On this site I would like to share my all gained experience in order to come closer to get a junior position in testing. make my dream come true.
+On this site I would like to share my all gained experience in order to come closer to get a junior position in testing.
 
 
 ## Skills
