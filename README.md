@@ -13,7 +13,9 @@ WHY do I want to be a Software Tester?
   
 I’m experienced, open-minded Senior Customer Service Specialist with flexible approach and can-do attitude. I am meticulous, persistent, patient, with a passion for quality. Both empathetic and assertive. Works well within a team and individually.
 
-My goal is to become a proficient Software Tester. On this site I would like to share my all gained experience in order to come closer to make my dream come true.
+🎯My career goal is to become a proficient Software Tester therefore I am determined to prove the skills I have already acquired and keep developing in this field. 
+On this site I would like to share my all gained experience in order to come closer to get a junior position in testing. make my dream come true.
+
 
 ## Skills
 
