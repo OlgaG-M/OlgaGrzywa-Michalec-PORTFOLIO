@@ -67,25 +67,20 @@ On this site I would like to share my all gained experience in order to come clo
 
 * **Test cases:**
   
-📱 Pick Eat Up application <img width="41" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/c041df39-35ca-4036-a706-60da1850b576">
-➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
+➡ 📱 [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
 
-💻 https://scouts-test.futbolkolektyw.pl/ <img width="134" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/4cf5fcbd-de39-4f62-bb41-1a1292012215">
+➡ 💻  [20 test cases](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 
-
-➡ [20 test cases](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
-
-➡ [test cases based on below mentioned user stories](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
+➡ 💻  [test cases based on below mentioned user stories](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
 
 <img width="346" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/3dca4742-2ed3-4df1-9d11-c22747ee9dc5">
 
 <img width="338" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/c84dddc0-b287-4c99-84f3-91189ab88f94">
 
 
- ➡ [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
+ ➡ 💻 [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
 
-* 📱**OLX mobile application bug report**  ➡ 
-[Bug report OLX](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
+* 📱 ➡ [Bug report OLX mobile app](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
 
 During 3hours testing I have found only 2 bugs. To be more precise: one bug and one inconvenience.
 
