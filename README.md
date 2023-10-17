@@ -78,7 +78,8 @@ On this site I would like to share my all gained experience in order to come clo
 <img width="338" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/c84dddc0-b287-4c99-84f3-91189ab88f94">
 
 
- ➡ 💻 [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
+ ➡ 💻 [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1RmHOhq5bzFniUcb7EzGqx3W2L76uqbaKUeAQC7hDZFM/edit#gid=0)
+ 
 
 * 📱 ➡ [Bug report OLX mobile app](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
 
