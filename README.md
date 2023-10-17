@@ -83,7 +83,7 @@ On this site I would like to share my all gained experience in order to come clo
 ➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
 
  
-|* **OLX MOBILE APPLICATION tested on the Realme GT Master Edition mobile phone** 📱  }
+|* **OLX MOBILE APPLICATION tested on the Realme GT Master Edition mobile phone** 📱                                                                                       |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ➡ [Bug report OLX mobile app](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
