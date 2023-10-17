@@ -59,7 +59,7 @@ On this site I would like to share my all gained experience in order to come clo
 
 ## My Projects (My Test Documentation)
 
-* **WWW.SCOUTS-TEST.FUTBOLKOLEKTYW.PL WEB APPLICATION**💻
+* **WWW.SCOUTS-TEST.FUTBOLKOLEKTYW.PL WEB APPLICATION** 💻
 
 ➡ [20 test cases regarding https://scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 
@@ -76,12 +76,12 @@ On this site I would like to share my all gained experience in order to come clo
 ➡ [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
 
 
-* **PICK EAT UP MOBILE APPLICATION- EXPLORATORY TESTING**📱
+* **PICK EAT UP MOBILE APPLICATION- EXPLORATORY TESTING** 📱
 
 ➡ [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
 
  
-* **OLX MOBILE APPLICATION tested on the Realme GT Master Edition mobile phone**📱 
+* **OLX MOBILE APPLICATION tested on the Realme GT Master Edition mobile phone** 📱 
 
 ➡ [Bug report OLX mobile app](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
 
