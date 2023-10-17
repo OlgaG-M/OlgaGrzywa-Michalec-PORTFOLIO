@@ -99,6 +99,10 @@ On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well
 
 ## My projects
 
-OUT4FUN application
+OUT4FUN application (in progress)
 
 ## Webinars
+
+* CanTestIT
+* 4_testers Festival 2023
+* Test Dive Conference 12.10.2023
