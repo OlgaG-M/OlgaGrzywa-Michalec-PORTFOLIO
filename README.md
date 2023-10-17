@@ -60,7 +60,7 @@ On this site I would like to share my all gained experience in order to come clo
 ## My Test Documentation 
 
 * **Bug Report**  ➡ 
-[Bugs report](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
+[Bug report](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
 
 * **Test Report**  ➡ 
   [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
