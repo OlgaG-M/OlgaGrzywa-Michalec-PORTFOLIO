@@ -57,17 +57,9 @@ On this site I would like to share my all gained experience in order to come clo
 * 4 days Quality Assurance Marathon organized by Go IT https://qa.m.goit.global/pl/
 
 
-## My Test Documentation 
+## My Projects (My Test Documentation)
 
-* **Bug Report**  ➡ 
-[Bug report](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
-
-* **Test Report**  ➡ 
-  [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
-
-* **Test cases:**
-  
-➡ 📱 [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
+_**WWW.SCOUTS-TEST.FUTBOLKOLEKTYW.PL WEB APPLICATION**_
 
 ➡ 💻 [20 test cases regarding https://scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 
@@ -77,9 +69,21 @@ On this site I would like to share my all gained experience in order to come clo
 
 <img width="338" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/c84dddc0-b287-4c99-84f3-91189ab88f94">
 
+➡ 💻 [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1RmHOhq5bzFniUcb7EzGqx3W2L76uqbaKUeAQC7hDZFM/edit#gid=0)
 
- ➡ 💻 [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1RmHOhq5bzFniUcb7EzGqx3W2L76uqbaKUeAQC7hDZFM/edit#gid=0)
+* **Bug Report**  ➡ 
+[Bug report](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
+
+* **Test Report**  ➡ 
+  [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
+
+
+_**PICK EAT UP MOBILE APPLICATION- EXPLORATORY TESTING**_
+
+➡ 📱 [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/1ylh-cUCAPtZ6DQdVMTdCsUEfm3yYUoDdmL0Pr9dsoQ8/edit#gid=0)
+
  
+_**OLX MOBILE APPLICATION tested on the Realme GT Master Edition mobile phone**_ 
 
 * 📱 ➡ [Bug report OLX mobile app](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
 
@@ -96,10 +100,7 @@ On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well
 👍 No issues while rotating the phone, I was able to take and make calls as well as take the messages
 
 
-
-## My projects
-
-OUT4FUN application (in progress)
+_**OUT4FUN application (in progress)**_
 
 ## Webinars
 
