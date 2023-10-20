@@ -40,8 +40,7 @@ On this site I would like to share my all gained experience in order to come clo
 |👉 testing REST API - Postman               |
 |                                             |
 |👉 basic knowledge of UML                   |
-|                                             |
-|👉 Postman                                   |
+
 
 
 
