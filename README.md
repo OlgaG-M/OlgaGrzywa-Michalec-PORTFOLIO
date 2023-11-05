@@ -105,7 +105,7 @@ On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well
   
 Testing a newly developed app Out4.fun.
 
-I am testing this app based on documentation, in a testing environment.
+I am testing this app based on documentation, in a testing environment. I report bugs and suggestions in Trello
 
 
 ## Webinars
