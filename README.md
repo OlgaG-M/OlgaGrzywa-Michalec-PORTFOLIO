@@ -101,7 +101,12 @@ On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well
 <img width="332" alt="image" src="https://github.com/OlgaG-M/OlgaGrzywa-Michalec-PORTFOLIO/assets/143441787/1ecfc6fb-317d-4228-80e7-e20d1fdfa8c1">
 
 
-* **OUT4FUN application (in progress)** 
+* **OUT4FUN application (in progress)**
+  
+Testing a newly developed app Out4.fun.
+
+I am testing this app based on documentation, in a testing environment.
+
 
 ## Webinars
 
