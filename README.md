@@ -113,8 +113,10 @@ Below you can find test cases as well as bugs and sugestions I found. (Documents
 
 ➡ [Test cases](https://docs.google.com/spreadsheets/d/1DkJIPohyYJUX3O-bysva0Z7rt1cnBkZDxe9XwE4OssE/edit#gid=0)
 
-## Webinars
+## Webinars, Conferences
 
+* Women of IT 23.11.2023 (conference organized by Nokia)
+* Women in IT Career Day 15.11.2023 (conference organized by Future Collars)
 * CanTestIT
 * 4_testers Festival 2023
 * Test Dive Conference 12.10.2023
