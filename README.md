@@ -115,6 +115,7 @@ Below you can find test cases as well as bugs and sugestions I found. (Documents
 
 ## Webinars, Conferences
 
+* QA Summit 30.11.2023 (online)
 * Women of IT 23.11.2023 (conference organized by Nokia)
 * Women in IT Career Day 15.11.2023 (conference organized by Future Collars)
 * CanTestIT
